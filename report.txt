@@ -1,0 +1,8 @@
+            Name Trip SessionTime DrowsyStatus DrowsyTime
+0      Elon Musk   NC     0:00:00           No    0:00:00
+1        Gayatri   NC     0:00:00           No    0:00:00
+2     Jeff Bezoz   NC     0:00:00           No    0:00:00
+3   Milana Ma'am   NC     0:00:00           No    0:00:00
+4       Mokshada    C    00:00:33          Yes   00:00:26
+5  Ryan Reynolds   NC     0:00:00           No    0:00:00
+6         Sakshi   NC     0:00:00           No    0:00:00
